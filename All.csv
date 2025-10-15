@@ -1,0 +1,1097 @@
+Product_ID,Category,Brand,List_Price,Unit_Cost;Customer_ID,Customer_Name,Segment,Region,Industry,Loyalty_Score;Date_ID,Date,Month,Quarter,Year
+1,Services,APC,811.63,637.3;1,Customer_1,B2C,Middle East,Manufacturing,55;1,2023-01-01,January,Q1,2023
+2,Industrial Automation,Merten,1490.79,1013.14;2,Customer_2,B2C,Middle East,IT,46;2,2023-01-02,January,Q1,2023
+3,Energy Management,Merten,396.44,216.77;3,Customer_3,B2C,North America,Construction,55;3,2023-01-03,January,Q1,2023
+4,Smart Home,Merten,210.36,159.84;4,Customer_4,B2C,Middle East,Manufacturing,69;4,2023-01-04,January,Q1,2023
+5,Energy Management,APC,1242.12,884.91;5,Customer_5,B2C,Africa,IT,72;5,2023-01-05,January,Q1,2023
+6,Services,APC,139.11,110.03;6,Customer_6,B2B,Middle East,Energy,71;6,2023-01-06,January,Q1,2023
+7,Services,Schneider,1681.64,947.94;7,Customer_7,B2C,Europe,Services,76;7,2023-01-07,January,Q1,2023
+8,Energy Management,Square D,445.47,247.25;8,Customer_8,B2B,Europe,Construction,64;8,2023-01-08,January,Q1,2023
+9,Electrical Distribution,Square D,678.06,445.77;9,Customer_9,B2B,APAC,Construction,93;9,2023-01-09,January,Q1,2023
+10,Electrical Distribution,Schneider,920.7,540.79;10,Customer_10,B2B,North America,Construction,79;10,2023-01-10,January,Q1,2023
+11,Electrical Distribution,Schneider,1262.52,684.09;11,Customer_11,B2B,APAC,IT,89;11,2023-01-11,January,Q1,2023
+12,Energy Management,APC,655.07,399.53;12,Customer_12,B2B,Middle East,Retail,61;12,2023-01-12,January,Q1,2023
+13,Smart Home,Square D,966.53,710.93;13,Customer_13,B2B,North America,Retail,66;13,2023-01-13,January,Q1,2023
+14,Industrial Automation,Schneider,479.38,313.64;14,Customer_14,B2B,APAC,Manufacturing,65;14,2023-01-14,January,Q1,2023
+15,Energy Management,Square D,1225.59,629.87;15,Customer_15,B2C,North America,IT,42;15,2023-01-15,January,Q1,2023
+16,Electrical Distribution,Schneider,1254.34,691.34;16,Customer_16,B2B,Africa,Retail,93;16,2023-01-16,January,Q1,2023
+17,Electrical Distribution,Square D,223.6,175.45;17,Customer_17,B2B,Europe,IT,68;17,2023-01-17,January,Q1,2023
+18,Smart Home,Schneider,1934.7,1436.55;18,Customer_18,B2B,Middle East,Construction,65;18,2023-01-18,January,Q1,2023
+19,Electrical Distribution,Schneider,678.77,359.27;19,Customer_19,B2C,Africa,Services,34;19,2023-01-19,January,Q1,2023
+20,Industrial Automation,Merten,1400.04,884.89;20,Customer_20,B2B,Africa,Energy,99;20,2023-01-20,January,Q1,2023
+21,Energy Management,Merten,331.87,215.24;21,Customer_21,B2B,Middle East,Services,96;21,2023-01-21,January,Q1,2023
+22,Energy Management,Square D,165.34,127.77;22,Customer_22,B2B,Middle East,Manufacturing,59;22,2023-01-22,January,Q1,2023
+23,Energy Management,Schneider,591.68,413.44;23,Customer_23,B2B,Africa,Retail,85;23,2023-01-23,January,Q1,2023
+24,Smart Home,Square D,692.25,454.13;24,Customer_24,B2C,Middle East,Manufacturing,85;24,2023-01-24,January,Q1,2023
+25,Electrical Distribution,APC,1138.75,632.53;25,Customer_25,B2C,APAC,Energy,24;25,2023-01-25,January,Q1,2023
+26,Electrical Distribution,APC,1942.21,1422.75;26,Customer_26,B2B,Middle East,Retail,41;26,2023-01-26,January,Q1,2023
+27,Smart Home,APC,1885.05,1448.56;27,Customer_27,B2B,APAC,Construction,61;27,2023-01-27,January,Q1,2023
+28,Smart Home,Schneider,1236.01,959.84;28,Customer_28,B2B,Europe,Construction,97;28,2023-01-28,January,Q1,2023
+29,Services,Schneider,268.14,149.84;29,Customer_29,B2B,APAC,Retail,61;29,2023-01-29,January,Q1,2023
+30,Energy Management,Merten,185.93,111.11;30,Customer_30,B2B,APAC,Manufacturing,61;30,2023-01-30,January,Q1,2023
+31,Industrial Automation,Square D,838.49,487.5;31,Customer_31,B2B,Africa,Retail,81;31,2023-01-31,January,Q1,2023
+32,Energy Management,APC,1674.6,1016.53;32,Customer_32,B2C,Europe,Services,63;32,2023-02-01,February,Q1,2023
+33,Industrial Automation,APC,633.78,420.07;33,Customer_33,B2B,Europe,Construction,76;33,2023-02-02,February,Q1,2023
+34,Industrial Automation,Square D,367.76,272.38;34,Customer_34,B2B,Africa,Energy,92;34,2023-02-03,February,Q1,2023
+35,Industrial Automation,Schneider,241.65,192.37;35,Customer_35,B2B,Europe,Energy,83;35,2023-02-04,February,Q1,2023
+36,Electrical Distribution,Square D,1567.27,877.07;36,Customer_36,B2B,APAC,Manufacturing,43;36,2023-02-05,February,Q1,2023
+37,Services,Schneider,110.49,82.28;37,Customer_37,B2C,Africa,Manufacturing,56;37,2023-02-06,February,Q1,2023
+38,Energy Management,APC,1443.03,1037.11;38,Customer_38,B2B,North America,Manufacturing,79;38,2023-02-07,February,Q1,2023
+39,Industrial Automation,Square D,1565.41,817.48;39,Customer_39,B2C,APAC,Energy,22;39,2023-02-08,February,Q1,2023
+40,Electrical Distribution,Square D,781.08,417.69;40,Customer_40,B2C,Middle East,Services,39;40,2023-02-09,February,Q1,2023
+41,Energy Management,Merten,1739.9,1195.29;41,Customer_41,B2B,Middle East,Services,95;41,2023-02-10,February,Q1,2023
+42,Smart Home,Schneider,728.71,378.25;42,Customer_42,B2B,North America,Retail,67;42,2023-02-11,February,Q1,2023
+43,Smart Home,Schneider,690.87,412.83;43,Customer_43,B2C,Middle East,Manufacturing,71;43,2023-02-12,February,Q1,2023
+44,Electrical Distribution,Schneider,1486.25,1027.4;44,Customer_44,B2C,North America,IT,18;44,2023-02-13,February,Q1,2023
+45,Services,APC,1785.7,1145.82;45,Customer_45,B2B,Middle East,Retail,40;45,2023-02-14,February,Q1,2023
+46,Energy Management,APC,327.23,233.63;46,Customer_46,B2B,Middle East,IT,40;46,2023-02-15,February,Q1,2023
+47,Smart Home,Square D,1545.49,1032.98;47,Customer_47,B2B,APAC,Retail,71;47,2023-02-16,February,Q1,2023
+48,Energy Management,Schneider,1564.84,1014.23;48,Customer_48,B2B,Middle East,Energy,87;48,2023-02-17,February,Q1,2023
+49,Electrical Distribution,Square D,1093.19,686.81;49,Customer_49,B2B,North America,Construction,84;49,2023-02-18,February,Q1,2023
+50,Services,Merten,148.3,78.95;50,Customer_50,B2B,APAC,Services,55;50,2023-02-19,February,Q1,2023
+51,Electrical Distribution,Schneider,159.72,110.35;51,Customer_51,B2B,Middle East,Services,44;51,2023-02-20,February,Q1,2023
+52,Smart Home,Square D,697.28,455.02;52,Customer_52,B2B,Middle East,Services,94;52,2023-02-21,February,Q1,2023
+53,Electrical Distribution,Schneider,1824.38,1048.63;53,Customer_53,B2B,Middle East,Energy,65;53,2023-02-22,February,Q1,2023
+54,Smart Home,APC,879.73,639.27;54,Customer_54,B2B,North America,IT,76;54,2023-02-23,February,Q1,2023
+55,Services,Schneider,534.72,279.71;55,Customer_55,B2B,Europe,Construction,68;55,2023-02-24,February,Q1,2023
+56,Industrial Automation,Schneider,650.53,356.73;56,Customer_56,B2B,North America,Services,44;56,2023-02-25,February,Q1,2023
+57,Services,APC,1866.43,1385.71;57,Customer_57,B2B,North America,Retail,69;57,2023-02-26,February,Q1,2023
+58,Electrical Distribution,APC,1303.47,992.51;58,Customer_58,B2C,North America,Services,78;58,2023-02-27,February,Q1,2023
+59,Energy Management,Merten,1626.98,904.55;59,Customer_59,B2B,Europe,IT,65;59,2023-02-28,February,Q1,2023
+60,Electrical Distribution,APC,1795.86,1188.5;60,Customer_60,B2C,Middle East,Manufacturing,48;60,2023-03-01,March,Q1,2023
+61,Energy Management,Square D,1634.14,1256.37;61,Customer_61,B2B,North America,IT,69;61,2023-03-02,March,Q1,2023
+62,Electrical Distribution,Schneider,704.21,375.35;62,Customer_62,B2B,Europe,Services,97;62,2023-03-03,March,Q1,2023
+63,Electrical Distribution,Merten,533.08,334.84;63,Customer_63,B2B,Europe,IT,44;63,2023-03-04,March,Q1,2023
+64,Energy Management,Square D,1654.23,1254.27;64,Customer_64,B2C,APAC,Services,61;64,2023-03-05,March,Q1,2023
+65,Electrical Distribution,Merten,113.21,73.95;65,Customer_65,B2B,North America,Energy,97;65,2023-03-06,March,Q1,2023
+66,Energy Management,Square D,893.08,506.05;66,Customer_66,B2C,Africa,Manufacturing,10;66,2023-03-07,March,Q1,2023
+67,Energy Management,Merten,327.74,197.06;67,Customer_67,B2B,North America,Services,84;67,2023-03-08,March,Q1,2023
+68,Industrial Automation,Merten,1891.53,1129.17;68,Customer_68,B2B,APAC,Manufacturing,63;68,2023-03-09,March,Q1,2023
+69,Electrical Distribution,Merten,1085.7,771.83;69,Customer_69,B2C,North America,Manufacturing,11;69,2023-03-10,March,Q1,2023
+70,Energy Management,Square D,790.9,626.02;70,Customer_70,B2B,North America,Services,71;70,2023-03-11,March,Q1,2023
+71,Services,Square D,1928.65,1110.0;71,Customer_71,B2C,North America,Retail,33;71,2023-03-12,March,Q1,2023
+72,Electrical Distribution,Merten,1044.77,616.69;72,Customer_72,B2B,Africa,IT,74;72,2023-03-13,March,Q1,2023
+73,Electrical Distribution,Schneider,641.2,327.7;73,Customer_73,B2B,North America,Retail,72;73,2023-03-14,March,Q1,2023
+74,Energy Management,Schneider,1258.17,818.82;74,Customer_74,B2C,Middle East,Construction,52;74,2023-03-15,March,Q1,2023
+75,Energy Management,Square D,197.81,115.44;75,Customer_75,B2C,North America,Services,76;75,2023-03-16,March,Q1,2023
+76,Electrical Distribution,Square D,1825.71,1044.07;76,Customer_76,B2C,Middle East,Manufacturing,49;76,2023-03-17,March,Q1,2023
+77,Services,Merten,375.3,242.76;77,Customer_77,B2C,Middle East,Retail,53;77,2023-03-18,March,Q1,2023
+78,Smart Home,Square D,1972.74,1129.62;78,Customer_78,B2B,Africa,Retail,51;78,2023-03-19,March,Q1,2023
+79,Energy Management,APC,1377.06,1003.17;79,Customer_79,B2B,APAC,Retail,41;79,2023-03-20,March,Q1,2023
+80,Energy Management,Square D,551.51,396.24;80,Customer_80,B2B,Africa,Manufacturing,89;80,2023-03-21,March,Q1,2023
+81,Services,Square D,798.79,550.92;81,Customer_81,B2B,Middle East,Manufacturing,56;81,2023-03-22,March,Q1,2023
+82,Industrial Automation,Schneider,1303.71,861.4;82,Customer_82,B2B,APAC,Construction,68;82,2023-03-23,March,Q1,2023
+83,Electrical Distribution,Merten,271.55,203.82;83,Customer_83,B2C,APAC,Retail,43;83,2023-03-24,March,Q1,2023
+84,Smart Home,Merten,709.48,394.44;84,Customer_84,B2B,Europe,Manufacturing,46;84,2023-03-25,March,Q1,2023
+85,Services,Merten,177.47,120.19;85,Customer_85,B2B,North America,Manufacturing,92;85,2023-03-26,March,Q1,2023
+86,Electrical Distribution,APC,1387.37,700.59;86,Customer_86,B2B,Middle East,Construction,50;86,2023-03-27,March,Q1,2023
+87,Energy Management,Merten,1072.98,609.4;87,Customer_87,B2C,Middle East,Construction,45;87,2023-03-28,March,Q1,2023
+88,Smart Home,Schneider,1325.83,732.27;88,Customer_88,B2B,Africa,Retail,96;88,2023-03-29,March,Q1,2023
+89,Smart Home,Square D,1412.78,870.3;89,Customer_89,B2B,APAC,Services,76;89,2023-03-30,March,Q1,2023
+90,Industrial Automation,Merten,1879.79,1017.45;90,Customer_90,B2C,Europe,Construction,73;90,2023-03-31,March,Q1,2023
+91,Electrical Distribution,Merten,748.03,399.48;91,Customer_91,B2B,Africa,Services,74;91,2023-04-01,April,Q2,2023
+92,Industrial Automation,Square D,1856.92,1417.2;92,Customer_92,B2B,Europe,Services,57;92,2023-04-02,April,Q2,2023
+93,Smart Home,Square D,590.09,411.88;93,Customer_93,B2B,North America,Manufacturing,71;93,2023-04-03,April,Q2,2023
+94,Services,Schneider,1652.72,1101.64;94,Customer_94,B2B,Africa,Retail,71;94,2023-04-04,April,Q2,2023
+95,Energy Management,Square D,1106.34,633.44;95,Customer_95,B2C,North America,Manufacturing,64;95,2023-04-05,April,Q2,2023
+96,Industrial Automation,Schneider,276.9,212.98;96,Customer_96,B2C,APAC,Energy,39;96,2023-04-06,April,Q2,2023
+97,Energy Management,Schneider,1810.79,1249.32;97,Customer_97,B2C,Middle East,Manufacturing,71;97,2023-04-07,April,Q2,2023
+98,Electrical Distribution,Merten,744.16,450.04;98,Customer_98,B2B,Middle East,Manufacturing,64;98,2023-04-08,April,Q2,2023
+99,Electrical Distribution,Schneider,1479.32,1137.79;99,Customer_99,B2B,North America,Services,98;99,2023-04-09,April,Q2,2023
+100,Services,Schneider,1785.46,1310.46;100,Customer_100,B2B,Europe,Construction,75;100,2023-04-10,April,Q2,2023
+101,Industrial Automation,APC,1319.86,693.25;101,Customer_101,B2B,Europe,Construction,80;101,2023-04-11,April,Q2,2023
+102,Industrial Automation,Square D,407.09,313.28;102,Customer_102,B2C,Africa,Services,18;102,2023-04-12,April,Q2,2023
+103,Electrical Distribution,Square D,1252.22,629.57;103,Customer_103,B2B,Africa,Retail,53;103,2023-04-13,April,Q2,2023
+104,Services,Merten,292.8,204.68;104,Customer_104,B2B,North America,Construction,91;104,2023-04-14,April,Q2,2023
+105,Services,APC,109.62,60.1;105,Customer_105,B2B,Middle East,Services,86;105,2023-04-15,April,Q2,2023
+106,Smart Home,APC,1142.59,808.46;106,Customer_106,B2B,Middle East,Manufacturing,44;106,2023-04-16,April,Q2,2023
+107,Electrical Distribution,APC,1338.73,759.44;107,Customer_107,B2B,APAC,Manufacturing,64;107,2023-04-17,April,Q2,2023
+108,Energy Management,Merten,1453.14,830.0;108,Customer_108,B2B,APAC,Manufacturing,60;108,2023-04-18,April,Q2,2023
+109,Smart Home,Square D,718.26,519.98;109,Customer_109,B2C,North America,Manufacturing,32;109,2023-04-19,April,Q2,2023
+110,Energy Management,Merten,1334.3,1007.09;110,Customer_110,B2C,Europe,Manufacturing,48;110,2023-04-20,April,Q2,2023
+111,Energy Management,APC,1349.46,904.8;111,Customer_111,B2B,Africa,Retail,81;111,2023-04-21,April,Q2,2023
+112,Industrial Automation,Merten,277.98,169.66;112,Customer_112,B2C,Europe,Manufacturing,23;112,2023-04-22,April,Q2,2023
+113,Services,Merten,603.88,346.14;113,Customer_113,B2B,APAC,Services,44;113,2023-04-23,April,Q2,2023
+114,Smart Home,Schneider,1948.72,1204.17;114,Customer_114,B2C,Africa,IT,84;114,2023-04-24,April,Q2,2023
+115,Industrial Automation,APC,1794.89,1237.29;115,Customer_115,B2B,North America,Services,51;115,2023-04-25,April,Q2,2023
+116,Services,Schneider,1610.14,1047.86;116,Customer_116,B2B,Africa,Energy,97;116,2023-04-26,April,Q2,2023
+117,Electrical Distribution,Merten,1196.12,774.79;117,Customer_117,B2B,Europe,Retail,77;117,2023-04-27,April,Q2,2023
+118,Industrial Automation,Square D,470.96,337.55;118,Customer_118,B2B,Africa,Services,52;118,2023-04-28,April,Q2,2023
+119,Services,APC,633.47,321.36;119,Customer_119,B2B,APAC,Construction,48;119,2023-04-29,April,Q2,2023
+120,Industrial Automation,Schneider,1326.4,733.68;120,Customer_120,B2C,North America,Services,75;120,2023-04-30,April,Q2,2023
+;121,Customer_121,B2B,Europe,Energy,76;121,2023-05-01,May,Q2,2023
+;122,Customer_122,B2B,Europe,Manufacturing,47;122,2023-05-02,May,Q2,2023
+;123,Customer_123,B2B,Europe,IT,40;123,2023-05-03,May,Q2,2023
+;124,Customer_124,B2C,Middle East,Services,26;124,2023-05-04,May,Q2,2023
+;125,Customer_125,B2C,North America,Retail,54;125,2023-05-05,May,Q2,2023
+;126,Customer_126,B2C,Africa,IT,79;126,2023-05-06,May,Q2,2023
+;127,Customer_127,B2C,Middle East,Retail,28;127,2023-05-07,May,Q2,2023
+;128,Customer_128,B2C,North America,Retail,63;128,2023-05-08,May,Q2,2023
+;129,Customer_129,B2C,APAC,IT,83;129,2023-05-09,May,Q2,2023
+;130,Customer_130,B2C,Africa,IT,48;130,2023-05-10,May,Q2,2023
+;131,Customer_131,B2B,Europe,Construction,84;131,2023-05-11,May,Q2,2023
+;132,Customer_132,B2B,Africa,IT,67;132,2023-05-12,May,Q2,2023
+;133,Customer_133,B2B,Africa,IT,59;133,2023-05-13,May,Q2,2023
+;134,Customer_134,B2B,Europe,IT,80;134,2023-05-14,May,Q2,2023
+;135,Customer_135,B2C,Africa,Retail,12;135,2023-05-15,May,Q2,2023
+;136,Customer_136,B2B,Middle East,IT,96;136,2023-05-16,May,Q2,2023
+;137,Customer_137,B2B,Europe,Retail,88;137,2023-05-17,May,Q2,2023
+;138,Customer_138,B2B,Africa,Construction,72;138,2023-05-18,May,Q2,2023
+;139,Customer_139,B2B,Middle East,Construction,45;139,2023-05-19,May,Q2,2023
+;140,Customer_140,B2C,North America,Services,54;140,2023-05-20,May,Q2,2023
+;141,Customer_141,B2C,Africa,Manufacturing,70;141,2023-05-21,May,Q2,2023
+;142,Customer_142,B2B,Middle East,Retail,55;142,2023-05-22,May,Q2,2023
+;143,Customer_143,B2B,North America,Manufacturing,50;143,2023-05-23,May,Q2,2023
+;144,Customer_144,B2C,APAC,Energy,45;144,2023-05-24,May,Q2,2023
+;145,Customer_145,B2B,North America,Services,59;145,2023-05-25,May,Q2,2023
+;146,Customer_146,B2B,APAC,Retail,86;146,2023-05-26,May,Q2,2023
+;147,Customer_147,B2B,Europe,Retail,53;147,2023-05-27,May,Q2,2023
+;148,Customer_148,B2B,APAC,Manufacturing,40;148,2023-05-28,May,Q2,2023
+;149,Customer_149,B2B,APAC,Retail,93;149,2023-05-29,May,Q2,2023
+;150,Customer_150,B2B,Africa,Manufacturing,62;150,2023-05-30,May,Q2,2023
+;151,Customer_151,B2B,Africa,IT,51;151,2023-05-31,May,Q2,2023
+;152,Customer_152,B2C,Africa,Services,25;152,2023-06-01,June,Q2,2023
+;153,Customer_153,B2C,Europe,Manufacturing,85;153,2023-06-02,June,Q2,2023
+;154,Customer_154,B2B,APAC,Retail,92;154,2023-06-03,June,Q2,2023
+;155,Customer_155,B2B,Europe,Services,67;155,2023-06-04,June,Q2,2023
+;156,Customer_156,B2B,Africa,Services,47;156,2023-06-05,June,Q2,2023
+;157,Customer_157,B2B,Europe,IT,89;157,2023-06-06,June,Q2,2023
+;158,Customer_158,B2B,North America,Retail,76;158,2023-06-07,June,Q2,2023
+;159,Customer_159,B2C,North America,Energy,73;159,2023-06-08,June,Q2,2023
+;160,Customer_160,B2B,APAC,Manufacturing,56;160,2023-06-09,June,Q2,2023
+;161,Customer_161,B2B,Middle East,Services,92;161,2023-06-10,June,Q2,2023
+;162,Customer_162,B2C,Middle East,Construction,38;162,2023-06-11,June,Q2,2023
+;163,Customer_163,B2B,Africa,IT,74;163,2023-06-12,June,Q2,2023
+;164,Customer_164,B2C,North America,Construction,78;164,2023-06-13,June,Q2,2023
+;165,Customer_165,B2B,North America,Construction,41;165,2023-06-14,June,Q2,2023
+;166,Customer_166,B2B,Africa,Retail,69;166,2023-06-15,June,Q2,2023
+;167,Customer_167,B2C,Middle East,IT,14;167,2023-06-16,June,Q2,2023
+;168,Customer_168,B2B,North America,IT,72;168,2023-06-17,June,Q2,2023
+;169,Customer_169,B2C,Africa,IT,27;169,2023-06-18,June,Q2,2023
+;170,Customer_170,B2C,Europe,Construction,58;170,2023-06-19,June,Q2,2023
+;171,Customer_171,B2B,Middle East,Services,65;171,2023-06-20,June,Q2,2023
+;172,Customer_172,B2B,Middle East,Construction,61;172,2023-06-21,June,Q2,2023
+;173,Customer_173,B2C,North America,IT,58;173,2023-06-22,June,Q2,2023
+;174,Customer_174,B2C,Europe,Construction,10;174,2023-06-23,June,Q2,2023
+;175,Customer_175,B2B,Europe,Services,94;175,2023-06-24,June,Q2,2023
+;176,Customer_176,B2C,North America,Retail,78;176,2023-06-25,June,Q2,2023
+;177,Customer_177,B2C,APAC,Construction,12;177,2023-06-26,June,Q2,2023
+;178,Customer_178,B2B,North America,Energy,76;178,2023-06-27,June,Q2,2023
+;179,Customer_179,B2C,APAC,IT,83;179,2023-06-28,June,Q2,2023
+;180,Customer_180,B2C,Middle East,Construction,26;180,2023-06-29,June,Q2,2023
+;181,Customer_181,B2B,Europe,Manufacturing,48;181,2023-06-30,June,Q2,2023
+;182,Customer_182,B2B,Middle East,IT,90;182,2023-07-01,July,Q3,2023
+;183,Customer_183,B2B,Middle East,Energy,43;183,2023-07-02,July,Q3,2023
+;184,Customer_184,B2B,Middle East,Construction,88;184,2023-07-03,July,Q3,2023
+;185,Customer_185,B2C,APAC,Energy,43;185,2023-07-04,July,Q3,2023
+;186,Customer_186,B2B,Africa,IT,47;186,2023-07-05,July,Q3,2023
+;187,Customer_187,B2B,Middle East,Services,97;187,2023-07-06,July,Q3,2023
+;188,Customer_188,B2B,Africa,Services,93;188,2023-07-07,July,Q3,2023
+;189,Customer_189,B2C,North America,IT,59;189,2023-07-08,July,Q3,2023
+;190,Customer_190,B2C,Europe,Retail,63;190,2023-07-09,July,Q3,2023
+;191,Customer_191,B2C,Middle East,Construction,66;191,2023-07-10,July,Q3,2023
+;192,Customer_192,B2B,Africa,Construction,86;192,2023-07-11,July,Q3,2023
+;193,Customer_193,B2B,Africa,Manufacturing,76;193,2023-07-12,July,Q3,2023
+;194,Customer_194,B2B,North America,Construction,41;194,2023-07-13,July,Q3,2023
+;195,Customer_195,B2C,Europe,IT,47;195,2023-07-14,July,Q3,2023
+;196,Customer_196,B2B,Europe,Construction,73;196,2023-07-15,July,Q3,2023
+;197,Customer_197,B2B,North America,IT,73;197,2023-07-16,July,Q3,2023
+;198,Customer_198,B2B,Europe,Manufacturing,54;198,2023-07-17,July,Q3,2023
+;199,Customer_199,B2B,Africa,Energy,73;199,2023-07-18,July,Q3,2023
+;200,Customer_200,B2B,North America,Manufacturing,77;200,2023-07-19,July,Q3,2023
+;201,Customer_201,B2B,Europe,Construction,54;201,2023-07-20,July,Q3,2023
+;202,Customer_202,B2B,Europe,Manufacturing,94;202,2023-07-21,July,Q3,2023
+;203,Customer_203,B2B,Middle East,Construction,56;203,2023-07-22,July,Q3,2023
+;204,Customer_204,B2C,Middle East,IT,13;204,2023-07-23,July,Q3,2023
+;205,Customer_205,B2B,Middle East,Construction,56;205,2023-07-24,July,Q3,2023
+;206,Customer_206,B2B,Africa,Energy,99;206,2023-07-25,July,Q3,2023
+;207,Customer_207,B2B,APAC,Manufacturing,44;207,2023-07-26,July,Q3,2023
+;208,Customer_208,B2C,North America,Construction,62;208,2023-07-27,July,Q3,2023
+;209,Customer_209,B2B,Europe,Retail,82;209,2023-07-28,July,Q3,2023
+;210,Customer_210,B2B,Middle East,Services,50;210,2023-07-29,July,Q3,2023
+;211,Customer_211,B2B,North America,Energy,96;211,2023-07-30,July,Q3,2023
+;212,Customer_212,B2B,Europe,Retail,55;212,2023-07-31,July,Q3,2023
+;213,Customer_213,B2B,Europe,Services,93;213,2023-08-01,August,Q3,2023
+;214,Customer_214,B2B,Africa,Retail,43;214,2023-08-02,August,Q3,2023
+;215,Customer_215,B2B,Africa,Manufacturing,95;215,2023-08-03,August,Q3,2023
+;216,Customer_216,B2B,Africa,IT,71;216,2023-08-04,August,Q3,2023
+;217,Customer_217,B2B,Middle East,Energy,68;217,2023-08-05,August,Q3,2023
+;218,Customer_218,B2C,Europe,IT,70;218,2023-08-06,August,Q3,2023
+;219,Customer_219,B2B,Africa,Services,58;219,2023-08-07,August,Q3,2023
+;220,Customer_220,B2C,APAC,IT,51;220,2023-08-08,August,Q3,2023
+;221,Customer_221,B2B,APAC,IT,60;221,2023-08-09,August,Q3,2023
+;222,Customer_222,B2B,Middle East,Services,44;222,2023-08-10,August,Q3,2023
+;223,Customer_223,B2B,Africa,IT,65;223,2023-08-11,August,Q3,2023
+;224,Customer_224,B2C,North America,Manufacturing,58;224,2023-08-12,August,Q3,2023
+;225,Customer_225,B2B,Middle East,Manufacturing,84;225,2023-08-13,August,Q3,2023
+;226,Customer_226,B2B,North America,Retail,65;226,2023-08-14,August,Q3,2023
+;227,Customer_227,B2C,Europe,Energy,65;227,2023-08-15,August,Q3,2023
+;228,Customer_228,B2C,Africa,IT,72;228,2023-08-16,August,Q3,2023
+;229,Customer_229,B2B,Europe,Retail,56;229,2023-08-17,August,Q3,2023
+;230,Customer_230,B2B,Europe,IT,40;230,2023-08-18,August,Q3,2023
+;231,Customer_231,B2B,North America,Manufacturing,74;231,2023-08-19,August,Q3,2023
+;232,Customer_232,B2B,North America,Manufacturing,54;232,2023-08-20,August,Q3,2023
+;233,Customer_233,B2B,Africa,Services,95;233,2023-08-21,August,Q3,2023
+;234,Customer_234,B2B,North America,Construction,65;234,2023-08-22,August,Q3,2023
+;235,Customer_235,B2C,Middle East,IT,87;235,2023-08-23,August,Q3,2023
+;236,Customer_236,B2B,APAC,IT,84;236,2023-08-24,August,Q3,2023
+;237,Customer_237,B2B,Middle East,Construction,98;237,2023-08-25,August,Q3,2023
+;238,Customer_238,B2B,Europe,IT,46;238,2023-08-26,August,Q3,2023
+;239,Customer_239,B2B,Africa,Energy,62;239,2023-08-27,August,Q3,2023
+;240,Customer_240,B2B,Middle East,Energy,86;240,2023-08-28,August,Q3,2023
+;241,Customer_241,B2B,APAC,Services,57;241,2023-08-29,August,Q3,2023
+;242,Customer_242,B2B,APAC,Services,74;242,2023-08-30,August,Q3,2023
+;243,Customer_243,B2B,Europe,Construction,64;243,2023-08-31,August,Q3,2023
+;244,Customer_244,B2C,Africa,Energy,37;244,2023-09-01,September,Q3,2023
+;245,Customer_245,B2B,North America,Retail,96;245,2023-09-02,September,Q3,2023
+;246,Customer_246,B2C,Middle East,Construction,53;246,2023-09-03,September,Q3,2023
+;247,Customer_247,B2B,APAC,Construction,52;247,2023-09-04,September,Q3,2023
+;248,Customer_248,B2B,APAC,Services,43;248,2023-09-05,September,Q3,2023
+;249,Customer_249,B2B,Europe,Energy,80;249,2023-09-06,September,Q3,2023
+;250,Customer_250,B2B,Europe,Manufacturing,86;250,2023-09-07,September,Q3,2023
+;251,Customer_251,B2B,North America,Manufacturing,61;251,2023-09-08,September,Q3,2023
+;252,Customer_252,B2B,APAC,IT,47;252,2023-09-09,September,Q3,2023
+;253,Customer_253,B2B,Middle East,Construction,83;253,2023-09-10,September,Q3,2023
+;254,Customer_254,B2B,Africa,Energy,80;254,2023-09-11,September,Q3,2023
+;255,Customer_255,B2B,Middle East,Services,91;255,2023-09-12,September,Q3,2023
+;256,Customer_256,B2B,Middle East,IT,73;256,2023-09-13,September,Q3,2023
+;257,Customer_257,B2B,North America,Energy,98;257,2023-09-14,September,Q3,2023
+;258,Customer_258,B2C,Middle East,IT,42;258,2023-09-15,September,Q3,2023
+;259,Customer_259,B2B,North America,Construction,60;259,2023-09-16,September,Q3,2023
+;260,Customer_260,B2B,Middle East,Energy,94;260,2023-09-17,September,Q3,2023
+;261,Customer_261,B2B,Europe,Construction,69;261,2023-09-18,September,Q3,2023
+;262,Customer_262,B2B,Middle East,IT,69;262,2023-09-19,September,Q3,2023
+;263,Customer_263,B2B,APAC,Energy,94;263,2023-09-20,September,Q3,2023
+;264,Customer_264,B2C,APAC,Manufacturing,12;264,2023-09-21,September,Q3,2023
+;265,Customer_265,B2B,APAC,Services,79;265,2023-09-22,September,Q3,2023
+;266,Customer_266,B2B,Europe,Retail,63;266,2023-09-23,September,Q3,2023
+;267,Customer_267,B2B,Middle East,Construction,41;267,2023-09-24,September,Q3,2023
+;268,Customer_268,B2B,Africa,Retail,50;268,2023-09-25,September,Q3,2023
+;269,Customer_269,B2C,APAC,Retail,15;269,2023-09-26,September,Q3,2023
+;270,Customer_270,B2C,North America,Energy,60;270,2023-09-27,September,Q3,2023
+;271,Customer_271,B2C,North America,Construction,75;271,2023-09-28,September,Q3,2023
+;272,Customer_272,B2B,APAC,IT,47;272,2023-09-29,September,Q3,2023
+;273,Customer_273,B2B,North America,Services,84;273,2023-09-30,September,Q3,2023
+;274,Customer_274,B2C,Middle East,Retail,79;274,2023-10-01,October,Q4,2023
+;275,Customer_275,B2C,Africa,Manufacturing,77;275,2023-10-02,October,Q4,2023
+;276,Customer_276,B2B,APAC,Services,72;276,2023-10-03,October,Q4,2023
+;277,Customer_277,B2C,APAC,Retail,21;277,2023-10-04,October,Q4,2023
+;278,Customer_278,B2B,North America,IT,65;278,2023-10-05,October,Q4,2023
+;279,Customer_279,B2C,Africa,Services,47;279,2023-10-06,October,Q4,2023
+;280,Customer_280,B2B,Africa,Services,50;280,2023-10-07,October,Q4,2023
+;281,Customer_281,B2C,North America,Energy,86;281,2023-10-08,October,Q4,2023
+;282,Customer_282,B2B,Europe,Services,72;282,2023-10-09,October,Q4,2023
+;283,Customer_283,B2B,North America,Manufacturing,95;283,2023-10-10,October,Q4,2023
+;284,Customer_284,B2B,North America,Energy,62;284,2023-10-11,October,Q4,2023
+;285,Customer_285,B2B,Africa,Retail,41;285,2023-10-12,October,Q4,2023
+;286,Customer_286,B2B,Europe,Services,41;286,2023-10-13,October,Q4,2023
+;287,Customer_287,B2B,Middle East,Services,76;287,2023-10-14,October,Q4,2023
+;288,Customer_288,B2B,North America,Manufacturing,48;288,2023-10-15,October,Q4,2023
+;289,Customer_289,B2B,Europe,Energy,63;289,2023-10-16,October,Q4,2023
+;290,Customer_290,B2B,APAC,Energy,74;290,2023-10-17,October,Q4,2023
+;291,Customer_291,B2B,APAC,Manufacturing,88;291,2023-10-18,October,Q4,2023
+;292,Customer_292,B2C,Middle East,Energy,69;292,2023-10-19,October,Q4,2023
+;293,Customer_293,B2C,APAC,Construction,87;293,2023-10-20,October,Q4,2023
+;294,Customer_294,B2C,North America,Construction,84;294,2023-10-21,October,Q4,2023
+;295,Customer_295,B2C,Africa,Energy,85;295,2023-10-22,October,Q4,2023
+;296,Customer_296,B2B,Middle East,Manufacturing,40;296,2023-10-23,October,Q4,2023
+;297,Customer_297,B2C,Middle East,Energy,31;297,2023-10-24,October,Q4,2023
+;298,Customer_298,B2B,APAC,Energy,68;298,2023-10-25,October,Q4,2023
+;299,Customer_299,B2B,North America,Manufacturing,80;299,2023-10-26,October,Q4,2023
+;300,Customer_300,B2C,Europe,Manufacturing,69;300,2023-10-27,October,Q4,2023
+;301,Customer_301,B2B,APAC,Energy,60;301,2023-10-28,October,Q4,2023
+;302,Customer_302,B2B,Europe,Energy,58;302,2023-10-29,October,Q4,2023
+;303,Customer_303,B2B,Europe,Retail,65;303,2023-10-30,October,Q4,2023
+;304,Customer_304,B2C,Europe,Construction,51;304,2023-10-31,October,Q4,2023
+;305,Customer_305,B2B,North America,Services,79;305,2023-11-01,November,Q4,2023
+;306,Customer_306,B2B,Africa,Energy,79;306,2023-11-02,November,Q4,2023
+;307,Customer_307,B2B,Africa,Energy,90;307,2023-11-03,November,Q4,2023
+;308,Customer_308,B2B,North America,IT,72;308,2023-11-04,November,Q4,2023
+;309,Customer_309,B2C,Europe,Manufacturing,24;309,2023-11-05,November,Q4,2023
+;310,Customer_310,B2B,Europe,Retail,56;310,2023-11-06,November,Q4,2023
+;311,Customer_311,B2C,North America,Retail,75;311,2023-11-07,November,Q4,2023
+;312,Customer_312,B2B,North America,IT,79;312,2023-11-08,November,Q4,2023
+;313,Customer_313,B2B,North America,Construction,78;313,2023-11-09,November,Q4,2023
+;314,Customer_314,B2B,Africa,Energy,45;314,2023-11-10,November,Q4,2023
+;315,Customer_315,B2B,Middle East,Energy,90;315,2023-11-11,November,Q4,2023
+;316,Customer_316,B2B,Europe,Manufacturing,91;316,2023-11-12,November,Q4,2023
+;317,Customer_317,B2C,APAC,Construction,38;317,2023-11-13,November,Q4,2023
+;318,Customer_318,B2B,Europe,Services,69;318,2023-11-14,November,Q4,2023
+;319,Customer_319,B2C,Africa,Manufacturing,45;319,2023-11-15,November,Q4,2023
+;320,Customer_320,B2C,APAC,Manufacturing,66;320,2023-11-16,November,Q4,2023
+;321,Customer_321,B2B,Africa,Energy,76;321,2023-11-17,November,Q4,2023
+;322,Customer_322,B2C,Europe,Services,42;322,2023-11-18,November,Q4,2023
+;323,Customer_323,B2B,APAC,Construction,61;323,2023-11-19,November,Q4,2023
+;324,Customer_324,B2C,North America,Construction,14;324,2023-11-20,November,Q4,2023
+;325,Customer_325,B2C,Africa,Retail,47;325,2023-11-21,November,Q4,2023
+;326,Customer_326,B2B,Middle East,Energy,86;326,2023-11-22,November,Q4,2023
+;327,Customer_327,B2C,Europe,IT,61;327,2023-11-23,November,Q4,2023
+;328,Customer_328,B2B,Middle East,Construction,68;328,2023-11-24,November,Q4,2023
+;329,Customer_329,B2B,Africa,Energy,68;329,2023-11-25,November,Q4,2023
+;330,Customer_330,B2B,Africa,Services,51;330,2023-11-26,November,Q4,2023
+;331,Customer_331,B2C,Africa,Services,36;331,2023-11-27,November,Q4,2023
+;332,Customer_332,B2B,North America,Retail,90;332,2023-11-28,November,Q4,2023
+;333,Customer_333,B2B,APAC,Construction,65;333,2023-11-29,November,Q4,2023
+;334,Customer_334,B2B,Middle East,IT,44;334,2023-11-30,November,Q4,2023
+;335,Customer_335,B2C,Europe,Services,83;335,2023-12-01,December,Q4,2023
+;336,Customer_336,B2B,Middle East,Retail,45;336,2023-12-02,December,Q4,2023
+;337,Customer_337,B2B,Africa,IT,86;337,2023-12-03,December,Q4,2023
+;338,Customer_338,B2B,Middle East,Services,82;338,2023-12-04,December,Q4,2023
+;339,Customer_339,B2B,Europe,Energy,52;339,2023-12-05,December,Q4,2023
+;340,Customer_340,B2B,Europe,Manufacturing,57;340,2023-12-06,December,Q4,2023
+;341,Customer_341,B2B,Europe,Energy,86;341,2023-12-07,December,Q4,2023
+;342,Customer_342,B2C,Europe,Energy,52;342,2023-12-08,December,Q4,2023
+;343,Customer_343,B2C,Africa,IT,77;343,2023-12-09,December,Q4,2023
+;344,Customer_344,B2C,Africa,Services,46;344,2023-12-10,December,Q4,2023
+;345,Customer_345,B2C,Europe,Manufacturing,40;345,2023-12-11,December,Q4,2023
+;346,Customer_346,B2B,Europe,Services,93;346,2023-12-12,December,Q4,2023
+;347,Customer_347,B2B,Africa,Manufacturing,53;347,2023-12-13,December,Q4,2023
+;348,Customer_348,B2C,Middle East,Services,20;348,2023-12-14,December,Q4,2023
+;349,Customer_349,B2B,Africa,Retail,85;349,2023-12-15,December,Q4,2023
+;350,Customer_350,B2B,Europe,IT,65;350,2023-12-16,December,Q4,2023
+;351,Customer_351,B2C,Middle East,Construction,63;351,2023-12-17,December,Q4,2023
+;352,Customer_352,B2C,APAC,Construction,10;352,2023-12-18,December,Q4,2023
+;353,Customer_353,B2C,APAC,Retail,64;353,2023-12-19,December,Q4,2023
+;354,Customer_354,B2B,Middle East,IT,54;354,2023-12-20,December,Q4,2023
+;355,Customer_355,B2B,Africa,IT,48;355,2023-12-21,December,Q4,2023
+;356,Customer_356,B2C,North America,Energy,83;356,2023-12-22,December,Q4,2023
+;357,Customer_357,B2C,APAC,Construction,35;357,2023-12-23,December,Q4,2023
+;358,Customer_358,B2B,APAC,IT,91;358,2023-12-24,December,Q4,2023
+;359,Customer_359,B2B,Middle East,Energy,50;359,2023-12-25,December,Q4,2023
+;360,Customer_360,B2C,APAC,IT,16;360,2023-12-26,December,Q4,2023
+;361,Customer_361,B2B,North America,Construction,73;361,2023-12-27,December,Q4,2023
+;362,Customer_362,B2C,North America,IT,52;362,2023-12-28,December,Q4,2023
+;363,Customer_363,B2B,Middle East,Retail,98;363,2023-12-29,December,Q4,2023
+;364,Customer_364,B2B,Europe,IT,63;364,2023-12-30,December,Q4,2023
+;365,Customer_365,B2B,Africa,Energy,91;365,2023-12-31,December,Q4,2023
+;366,Customer_366,B2B,Europe,Energy,63;366,2024-01-01,January,Q1,2024
+;367,Customer_367,B2B,Europe,Retail,68;367,2024-01-02,January,Q1,2024
+;368,Customer_368,B2B,APAC,IT,61;368,2024-01-03,January,Q1,2024
+;369,Customer_369,B2B,APAC,Retail,89;369,2024-01-04,January,Q1,2024
+;370,Customer_370,B2B,North America,Retail,46;370,2024-01-05,January,Q1,2024
+;371,Customer_371,B2C,Europe,Services,58;371,2024-01-06,January,Q1,2024
+;372,Customer_372,B2B,Africa,Energy,61;372,2024-01-07,January,Q1,2024
+;373,Customer_373,B2B,Middle East,IT,79;373,2024-01-08,January,Q1,2024
+;374,Customer_374,B2B,Europe,IT,40;374,2024-01-09,January,Q1,2024
+;375,Customer_375,B2B,Europe,Services,69;375,2024-01-10,January,Q1,2024
+;376,Customer_376,B2C,Africa,Construction,65;376,2024-01-11,January,Q1,2024
+;377,Customer_377,B2C,APAC,Construction,41;377,2024-01-12,January,Q1,2024
+;378,Customer_378,B2B,APAC,IT,88;378,2024-01-13,January,Q1,2024
+;379,Customer_379,B2B,Europe,Energy,69;379,2024-01-14,January,Q1,2024
+;380,Customer_380,B2C,Middle East,Construction,28;380,2024-01-15,January,Q1,2024
+;381,Customer_381,B2B,North America,Services,53;381,2024-01-16,January,Q1,2024
+;382,Customer_382,B2C,North America,Energy,75;382,2024-01-17,January,Q1,2024
+;383,Customer_383,B2B,APAC,Services,88;383,2024-01-18,January,Q1,2024
+;384,Customer_384,B2B,Africa,Manufacturing,77;384,2024-01-19,January,Q1,2024
+;385,Customer_385,B2C,Africa,Manufacturing,13;385,2024-01-20,January,Q1,2024
+;386,Customer_386,B2B,APAC,Services,68;386,2024-01-21,January,Q1,2024
+;387,Customer_387,B2B,North America,Manufacturing,42;387,2024-01-22,January,Q1,2024
+;388,Customer_388,B2B,Europe,Construction,49;388,2024-01-23,January,Q1,2024
+;389,Customer_389,B2C,APAC,Retail,43;389,2024-01-24,January,Q1,2024
+;390,Customer_390,B2B,North America,Retail,62;390,2024-01-25,January,Q1,2024
+;391,Customer_391,B2C,APAC,Manufacturing,41;391,2024-01-26,January,Q1,2024
+;392,Customer_392,B2C,Europe,Construction,17;392,2024-01-27,January,Q1,2024
+;393,Customer_393,B2B,Middle East,Retail,94;393,2024-01-28,January,Q1,2024
+;394,Customer_394,B2B,Africa,Construction,62;394,2024-01-29,January,Q1,2024
+;395,Customer_395,B2B,Europe,IT,47;395,2024-01-30,January,Q1,2024
+;396,Customer_396,B2B,APAC,Retail,86;396,2024-01-31,January,Q1,2024
+;397,Customer_397,B2B,Middle East,Retail,90;397,2024-02-01,February,Q1,2024
+;398,Customer_398,B2B,North America,Construction,86;398,2024-02-02,February,Q1,2024
+;399,Customer_399,B2C,APAC,Services,44;399,2024-02-03,February,Q1,2024
+;400,Customer_400,B2B,Europe,Manufacturing,53;400,2024-02-04,February,Q1,2024
+;401,Customer_401,B2B,Africa,Services,85;401,2024-02-05,February,Q1,2024
+;402,Customer_402,B2C,Europe,Services,77;402,2024-02-06,February,Q1,2024
+;403,Customer_403,B2C,North America,Retail,63;403,2024-02-07,February,Q1,2024
+;404,Customer_404,B2B,Africa,IT,70;404,2024-02-08,February,Q1,2024
+;405,Customer_405,B2B,Africa,Energy,57;405,2024-02-09,February,Q1,2024
+;406,Customer_406,B2B,Africa,Services,46;406,2024-02-10,February,Q1,2024
+;407,Customer_407,B2C,North America,Services,28;407,2024-02-11,February,Q1,2024
+;408,Customer_408,B2B,Middle East,Construction,58;408,2024-02-12,February,Q1,2024
+;409,Customer_409,B2B,APAC,Retail,99;409,2024-02-13,February,Q1,2024
+;410,Customer_410,B2C,Europe,Energy,10;410,2024-02-14,February,Q1,2024
+;411,Customer_411,B2C,Europe,Retail,29;411,2024-02-15,February,Q1,2024
+;412,Customer_412,B2B,APAC,Services,41;412,2024-02-16,February,Q1,2024
+;413,Customer_413,B2B,Africa,Retail,94;413,2024-02-17,February,Q1,2024
+;414,Customer_414,B2B,Africa,Retail,44;414,2024-02-18,February,Q1,2024
+;415,Customer_415,B2B,Europe,Manufacturing,69;415,2024-02-19,February,Q1,2024
+;416,Customer_416,B2B,Middle East,Construction,92;416,2024-02-20,February,Q1,2024
+;417,Customer_417,B2B,Africa,Energy,91;417,2024-02-21,February,Q1,2024
+;418,Customer_418,B2C,Europe,IT,33;418,2024-02-22,February,Q1,2024
+;419,Customer_419,B2B,APAC,Construction,69;419,2024-02-23,February,Q1,2024
+;420,Customer_420,B2B,North America,Energy,85;420,2024-02-24,February,Q1,2024
+;421,Customer_421,B2B,North America,Energy,71;421,2024-02-25,February,Q1,2024
+;422,Customer_422,B2B,North America,Retail,90;422,2024-02-26,February,Q1,2024
+;423,Customer_423,B2B,Africa,Retail,48;423,2024-02-27,February,Q1,2024
+;424,Customer_424,B2B,APAC,IT,84;424,2024-02-28,February,Q1,2024
+;425,Customer_425,B2B,Africa,Manufacturing,48;425,2024-02-29,February,Q1,2024
+;426,Customer_426,B2B,North America,Construction,82;426,2024-03-01,March,Q1,2024
+;427,Customer_427,B2B,Middle East,Energy,65;427,2024-03-02,March,Q1,2024
+;428,Customer_428,B2B,Africa,Services,84;428,2024-03-03,March,Q1,2024
+;429,Customer_429,B2B,APAC,Manufacturing,76;429,2024-03-04,March,Q1,2024
+;430,Customer_430,B2B,Europe,Construction,57;430,2024-03-05,March,Q1,2024
+;431,Customer_431,B2B,Europe,IT,81;431,2024-03-06,March,Q1,2024
+;432,Customer_432,B2B,North America,IT,77;432,2024-03-07,March,Q1,2024
+;433,Customer_433,B2B,North America,Services,76;433,2024-03-08,March,Q1,2024
+;434,Customer_434,B2B,APAC,IT,97;434,2024-03-09,March,Q1,2024
+;435,Customer_435,B2C,Europe,Construction,36;435,2024-03-10,March,Q1,2024
+;436,Customer_436,B2C,Africa,Services,15;436,2024-03-11,March,Q1,2024
+;437,Customer_437,B2C,Africa,Retail,21;437,2024-03-12,March,Q1,2024
+;438,Customer_438,B2B,Europe,Energy,92;438,2024-03-13,March,Q1,2024
+;439,Customer_439,B2B,APAC,Construction,84;439,2024-03-14,March,Q1,2024
+;440,Customer_440,B2C,APAC,Retail,71;440,2024-03-15,March,Q1,2024
+;441,Customer_441,B2B,Europe,Services,41;441,2024-03-16,March,Q1,2024
+;442,Customer_442,B2B,Europe,Services,82;442,2024-03-17,March,Q1,2024
+;443,Customer_443,B2B,Africa,IT,92;443,2024-03-18,March,Q1,2024
+;444,Customer_444,B2B,Middle East,Energy,65;444,2024-03-19,March,Q1,2024
+;445,Customer_445,B2B,APAC,Energy,50;445,2024-03-20,March,Q1,2024
+;446,Customer_446,B2B,Africa,Retail,75;446,2024-03-21,March,Q1,2024
+;447,Customer_447,B2C,Africa,Energy,48;447,2024-03-22,March,Q1,2024
+;448,Customer_448,B2B,Europe,IT,93;448,2024-03-23,March,Q1,2024
+;449,Customer_449,B2B,APAC,IT,86;449,2024-03-24,March,Q1,2024
+;450,Customer_450,B2C,Africa,Retail,31;450,2024-03-25,March,Q1,2024
+;451,Customer_451,B2C,APAC,Retail,42;451,2024-03-26,March,Q1,2024
+;452,Customer_452,B2B,APAC,Retail,86;452,2024-03-27,March,Q1,2024
+;453,Customer_453,B2B,North America,IT,74;453,2024-03-28,March,Q1,2024
+;454,Customer_454,B2C,Africa,Services,71;454,2024-03-29,March,Q1,2024
+;455,Customer_455,B2C,Europe,IT,82;455,2024-03-30,March,Q1,2024
+;456,Customer_456,B2C,Middle East,Manufacturing,82;456,2024-03-31,March,Q1,2024
+;457,Customer_457,B2B,Middle East,Services,56;457,2024-04-01,April,Q2,2024
+;458,Customer_458,B2B,APAC,IT,82;458,2024-04-02,April,Q2,2024
+;459,Customer_459,B2B,North America,Retail,64;459,2024-04-03,April,Q2,2024
+;460,Customer_460,B2B,APAC,Services,42;460,2024-04-04,April,Q2,2024
+;461,Customer_461,B2B,APAC,Retail,83;461,2024-04-05,April,Q2,2024
+;462,Customer_462,B2B,Africa,Manufacturing,69;462,2024-04-06,April,Q2,2024
+;463,Customer_463,B2B,Europe,Manufacturing,51;463,2024-04-07,April,Q2,2024
+;464,Customer_464,B2B,Africa,Construction,83;464,2024-04-08,April,Q2,2024
+;465,Customer_465,B2C,APAC,Construction,58;465,2024-04-09,April,Q2,2024
+;466,Customer_466,B2B,APAC,Manufacturing,49;466,2024-04-10,April,Q2,2024
+;467,Customer_467,B2B,APAC,Retail,88;467,2024-04-11,April,Q2,2024
+;468,Customer_468,B2B,APAC,IT,55;468,2024-04-12,April,Q2,2024
+;469,Customer_469,B2C,Africa,Energy,17;469,2024-04-13,April,Q2,2024
+;470,Customer_470,B2B,North America,IT,56;470,2024-04-14,April,Q2,2024
+;471,Customer_471,B2B,APAC,IT,93;471,2024-04-15,April,Q2,2024
+;472,Customer_472,B2B,APAC,Energy,47;472,2024-04-16,April,Q2,2024
+;473,Customer_473,B2B,Africa,Services,64;473,2024-04-17,April,Q2,2024
+;474,Customer_474,B2B,Middle East,Manufacturing,98;474,2024-04-18,April,Q2,2024
+;475,Customer_475,B2C,Middle East,Services,35;475,2024-04-19,April,Q2,2024
+;476,Customer_476,B2B,Europe,Retail,49;476,2024-04-20,April,Q2,2024
+;477,Customer_477,B2B,APAC,Energy,56;477,2024-04-21,April,Q2,2024
+;478,Customer_478,B2B,North America,IT,60;478,2024-04-22,April,Q2,2024
+;479,Customer_479,B2B,APAC,Construction,46;479,2024-04-23,April,Q2,2024
+;480,Customer_480,B2B,Europe,Energy,92;480,2024-04-24,April,Q2,2024
+;481,Customer_481,B2C,Europe,Manufacturing,57;481,2024-04-25,April,Q2,2024
+;482,Customer_482,B2B,Middle East,Services,98;482,2024-04-26,April,Q2,2024
+;483,Customer_483,B2C,Middle East,Energy,48;483,2024-04-27,April,Q2,2024
+;484,Customer_484,B2B,Middle East,Energy,98;484,2024-04-28,April,Q2,2024
+;485,Customer_485,B2C,North America,IT,26;485,2024-04-29,April,Q2,2024
+;486,Customer_486,B2B,APAC,Energy,63;486,2024-04-30,April,Q2,2024
+;487,Customer_487,B2B,APAC,Energy,99;487,2024-05-01,May,Q2,2024
+;488,Customer_488,B2B,Europe,Services,42;488,2024-05-02,May,Q2,2024
+;489,Customer_489,B2B,Middle East,IT,79;489,2024-05-03,May,Q2,2024
+;490,Customer_490,B2B,Europe,IT,62;490,2024-05-04,May,Q2,2024
+;491,Customer_491,B2B,North America,Construction,54;491,2024-05-05,May,Q2,2024
+;492,Customer_492,B2C,Middle East,Energy,13;492,2024-05-06,May,Q2,2024
+;493,Customer_493,B2C,North America,Services,34;493,2024-05-07,May,Q2,2024
+;494,Customer_494,B2C,Europe,IT,42;494,2024-05-08,May,Q2,2024
+;495,Customer_495,B2C,North America,Manufacturing,51;495,2024-05-09,May,Q2,2024
+;496,Customer_496,B2C,Africa,IT,75;496,2024-05-10,May,Q2,2024
+;497,Customer_497,B2B,Middle East,Retail,81;497,2024-05-11,May,Q2,2024
+;498,Customer_498,B2C,APAC,Energy,22;498,2024-05-12,May,Q2,2024
+;499,Customer_499,B2B,Middle East,Manufacturing,71;499,2024-05-13,May,Q2,2024
+;500,Customer_500,B2C,Europe,Retail,48;500,2024-05-14,May,Q2,2024
+;;501,2024-05-15,May,Q2,2024
+;;502,2024-05-16,May,Q2,2024
+;;503,2024-05-17,May,Q2,2024
+;;504,2024-05-18,May,Q2,2024
+;;505,2024-05-19,May,Q2,2024
+;;506,2024-05-20,May,Q2,2024
+;;507,2024-05-21,May,Q2,2024
+;;508,2024-05-22,May,Q2,2024
+;;509,2024-05-23,May,Q2,2024
+;;510,2024-05-24,May,Q2,2024
+;;511,2024-05-25,May,Q2,2024
+;;512,2024-05-26,May,Q2,2024
+;;513,2024-05-27,May,Q2,2024
+;;514,2024-05-28,May,Q2,2024
+;;515,2024-05-29,May,Q2,2024
+;;516,2024-05-30,May,Q2,2024
+;;517,2024-05-31,May,Q2,2024
+;;518,2024-06-01,June,Q2,2024
+;;519,2024-06-02,June,Q2,2024
+;;520,2024-06-03,June,Q2,2024
+;;521,2024-06-04,June,Q2,2024
+;;522,2024-06-05,June,Q2,2024
+;;523,2024-06-06,June,Q2,2024
+;;524,2024-06-07,June,Q2,2024
+;;525,2024-06-08,June,Q2,2024
+;;526,2024-06-09,June,Q2,2024
+;;527,2024-06-10,June,Q2,2024
+;;528,2024-06-11,June,Q2,2024
+;;529,2024-06-12,June,Q2,2024
+;;530,2024-06-13,June,Q2,2024
+;;531,2024-06-14,June,Q2,2024
+;;532,2024-06-15,June,Q2,2024
+;;533,2024-06-16,June,Q2,2024
+;;534,2024-06-17,June,Q2,2024
+;;535,2024-06-18,June,Q2,2024
+;;536,2024-06-19,June,Q2,2024
+;;537,2024-06-20,June,Q2,2024
+;;538,2024-06-21,June,Q2,2024
+;;539,2024-06-22,June,Q2,2024
+;;540,2024-06-23,June,Q2,2024
+;;541,2024-06-24,June,Q2,2024
+;;542,2024-06-25,June,Q2,2024
+;;543,2024-06-26,June,Q2,2024
+;;544,2024-06-27,June,Q2,2024
+;;545,2024-06-28,June,Q2,2024
+;;546,2024-06-29,June,Q2,2024
+;;547,2024-06-30,June,Q2,2024
+;;548,2024-07-01,July,Q3,2024
+;;549,2024-07-02,July,Q3,2024
+;;550,2024-07-03,July,Q3,2024
+;;551,2024-07-04,July,Q3,2024
+;;552,2024-07-05,July,Q3,2024
+;;553,2024-07-06,July,Q3,2024
+;;554,2024-07-07,July,Q3,2024
+;;555,2024-07-08,July,Q3,2024
+;;556,2024-07-09,July,Q3,2024
+;;557,2024-07-10,July,Q3,2024
+;;558,2024-07-11,July,Q3,2024
+;;559,2024-07-12,July,Q3,2024
+;;560,2024-07-13,July,Q3,2024
+;;561,2024-07-14,July,Q3,2024
+;;562,2024-07-15,July,Q3,2024
+;;563,2024-07-16,July,Q3,2024
+;;564,2024-07-17,July,Q3,2024
+;;565,2024-07-18,July,Q3,2024
+;;566,2024-07-19,July,Q3,2024
+;;567,2024-07-20,July,Q3,2024
+;;568,2024-07-21,July,Q3,2024
+;;569,2024-07-22,July,Q3,2024
+;;570,2024-07-23,July,Q3,2024
+;;571,2024-07-24,July,Q3,2024
+;;572,2024-07-25,July,Q3,2024
+;;573,2024-07-26,July,Q3,2024
+;;574,2024-07-27,July,Q3,2024
+;;575,2024-07-28,July,Q3,2024
+;;576,2024-07-29,July,Q3,2024
+;;577,2024-07-30,July,Q3,2024
+;;578,2024-07-31,July,Q3,2024
+;;579,2024-08-01,August,Q3,2024
+;;580,2024-08-02,August,Q3,2024
+;;581,2024-08-03,August,Q3,2024
+;;582,2024-08-04,August,Q3,2024
+;;583,2024-08-05,August,Q3,2024
+;;584,2024-08-06,August,Q3,2024
+;;585,2024-08-07,August,Q3,2024
+;;586,2024-08-08,August,Q3,2024
+;;587,2024-08-09,August,Q3,2024
+;;588,2024-08-10,August,Q3,2024
+;;589,2024-08-11,August,Q3,2024
+;;590,2024-08-12,August,Q3,2024
+;;591,2024-08-13,August,Q3,2024
+;;592,2024-08-14,August,Q3,2024
+;;593,2024-08-15,August,Q3,2024
+;;594,2024-08-16,August,Q3,2024
+;;595,2024-08-17,August,Q3,2024
+;;596,2024-08-18,August,Q3,2024
+;;597,2024-08-19,August,Q3,2024
+;;598,2024-08-20,August,Q3,2024
+;;599,2024-08-21,August,Q3,2024
+;;600,2024-08-22,August,Q3,2024
+;;601,2024-08-23,August,Q3,2024
+;;602,2024-08-24,August,Q3,2024
+;;603,2024-08-25,August,Q3,2024
+;;604,2024-08-26,August,Q3,2024
+;;605,2024-08-27,August,Q3,2024
+;;606,2024-08-28,August,Q3,2024
+;;607,2024-08-29,August,Q3,2024
+;;608,2024-08-30,August,Q3,2024
+;;609,2024-08-31,August,Q3,2024
+;;610,2024-09-01,September,Q3,2024
+;;611,2024-09-02,September,Q3,2024
+;;612,2024-09-03,September,Q3,2024
+;;613,2024-09-04,September,Q3,2024
+;;614,2024-09-05,September,Q3,2024
+;;615,2024-09-06,September,Q3,2024
+;;616,2024-09-07,September,Q3,2024
+;;617,2024-09-08,September,Q3,2024
+;;618,2024-09-09,September,Q3,2024
+;;619,2024-09-10,September,Q3,2024
+;;620,2024-09-11,September,Q3,2024
+;;621,2024-09-12,September,Q3,2024
+;;622,2024-09-13,September,Q3,2024
+;;623,2024-09-14,September,Q3,2024
+;;624,2024-09-15,September,Q3,2024
+;;625,2024-09-16,September,Q3,2024
+;;626,2024-09-17,September,Q3,2024
+;;627,2024-09-18,September,Q3,2024
+;;628,2024-09-19,September,Q3,2024
+;;629,2024-09-20,September,Q3,2024
+;;630,2024-09-21,September,Q3,2024
+;;631,2024-09-22,September,Q3,2024
+;;632,2024-09-23,September,Q3,2024
+;;633,2024-09-24,September,Q3,2024
+;;634,2024-09-25,September,Q3,2024
+;;635,2024-09-26,September,Q3,2024
+;;636,2024-09-27,September,Q3,2024
+;;637,2024-09-28,September,Q3,2024
+;;638,2024-09-29,September,Q3,2024
+;;639,2024-09-30,September,Q3,2024
+;;640,2024-10-01,October,Q4,2024
+;;641,2024-10-02,October,Q4,2024
+;;642,2024-10-03,October,Q4,2024
+;;643,2024-10-04,October,Q4,2024
+;;644,2024-10-05,October,Q4,2024
+;;645,2024-10-06,October,Q4,2024
+;;646,2024-10-07,October,Q4,2024
+;;647,2024-10-08,October,Q4,2024
+;;648,2024-10-09,October,Q4,2024
+;;649,2024-10-10,October,Q4,2024
+;;650,2024-10-11,October,Q4,2024
+;;651,2024-10-12,October,Q4,2024
+;;652,2024-10-13,October,Q4,2024
+;;653,2024-10-14,October,Q4,2024
+;;654,2024-10-15,October,Q4,2024
+;;655,2024-10-16,October,Q4,2024
+;;656,2024-10-17,October,Q4,2024
+;;657,2024-10-18,October,Q4,2024
+;;658,2024-10-19,October,Q4,2024
+;;659,2024-10-20,October,Q4,2024
+;;660,2024-10-21,October,Q4,2024
+;;661,2024-10-22,October,Q4,2024
+;;662,2024-10-23,October,Q4,2024
+;;663,2024-10-24,October,Q4,2024
+;;664,2024-10-25,October,Q4,2024
+;;665,2024-10-26,October,Q4,2024
+;;666,2024-10-27,October,Q4,2024
+;;667,2024-10-28,October,Q4,2024
+;;668,2024-10-29,October,Q4,2024
+;;669,2024-10-30,October,Q4,2024
+;;670,2024-10-31,October,Q4,2024
+;;671,2024-11-01,November,Q4,2024
+;;672,2024-11-02,November,Q4,2024
+;;673,2024-11-03,November,Q4,2024
+;;674,2024-11-04,November,Q4,2024
+;;675,2024-11-05,November,Q4,2024
+;;676,2024-11-06,November,Q4,2024
+;;677,2024-11-07,November,Q4,2024
+;;678,2024-11-08,November,Q4,2024
+;;679,2024-11-09,November,Q4,2024
+;;680,2024-11-10,November,Q4,2024
+;;681,2024-11-11,November,Q4,2024
+;;682,2024-11-12,November,Q4,2024
+;;683,2024-11-13,November,Q4,2024
+;;684,2024-11-14,November,Q4,2024
+;;685,2024-11-15,November,Q4,2024
+;;686,2024-11-16,November,Q4,2024
+;;687,2024-11-17,November,Q4,2024
+;;688,2024-11-18,November,Q4,2024
+;;689,2024-11-19,November,Q4,2024
+;;690,2024-11-20,November,Q4,2024
+;;691,2024-11-21,November,Q4,2024
+;;692,2024-11-22,November,Q4,2024
+;;693,2024-11-23,November,Q4,2024
+;;694,2024-11-24,November,Q4,2024
+;;695,2024-11-25,November,Q4,2024
+;;696,2024-11-26,November,Q4,2024
+;;697,2024-11-27,November,Q4,2024
+;;698,2024-11-28,November,Q4,2024
+;;699,2024-11-29,November,Q4,2024
+;;700,2024-11-30,November,Q4,2024
+;;701,2024-12-01,December,Q4,2024
+;;702,2024-12-02,December,Q4,2024
+;;703,2024-12-03,December,Q4,2024
+;;704,2024-12-04,December,Q4,2024
+;;705,2024-12-05,December,Q4,2024
+;;706,2024-12-06,December,Q4,2024
+;;707,2024-12-07,December,Q4,2024
+;;708,2024-12-08,December,Q4,2024
+;;709,2024-12-09,December,Q4,2024
+;;710,2024-12-10,December,Q4,2024
+;;711,2024-12-11,December,Q4,2024
+;;712,2024-12-12,December,Q4,2024
+;;713,2024-12-13,December,Q4,2024
+;;714,2024-12-14,December,Q4,2024
+;;715,2024-12-15,December,Q4,2024
+;;716,2024-12-16,December,Q4,2024
+;;717,2024-12-17,December,Q4,2024
+;;718,2024-12-18,December,Q4,2024
+;;719,2024-12-19,December,Q4,2024
+;;720,2024-12-20,December,Q4,2024
+;;721,2024-12-21,December,Q4,2024
+;;722,2024-12-22,December,Q4,2024
+;;723,2024-12-23,December,Q4,2024
+;;724,2024-12-24,December,Q4,2024
+;;725,2024-12-25,December,Q4,2024
+;;726,2024-12-26,December,Q4,2024
+;;727,2024-12-27,December,Q4,2024
+;;728,2024-12-28,December,Q4,2024
+;;729,2024-12-29,December,Q4,2024
+;;730,2024-12-30,December,Q4,2024
+;;731,2024-12-31,December,Q4,2024
+;;732,2025-01-01,January,Q1,2025
+;;733,2025-01-02,January,Q1,2025
+;;734,2025-01-03,January,Q1,2025
+;;735,2025-01-04,January,Q1,2025
+;;736,2025-01-05,January,Q1,2025
+;;737,2025-01-06,January,Q1,2025
+;;738,2025-01-07,January,Q1,2025
+;;739,2025-01-08,January,Q1,2025
+;;740,2025-01-09,January,Q1,2025
+;;741,2025-01-10,January,Q1,2025
+;;742,2025-01-11,January,Q1,2025
+;;743,2025-01-12,January,Q1,2025
+;;744,2025-01-13,January,Q1,2025
+;;745,2025-01-14,January,Q1,2025
+;;746,2025-01-15,January,Q1,2025
+;;747,2025-01-16,January,Q1,2025
+;;748,2025-01-17,January,Q1,2025
+;;749,2025-01-18,January,Q1,2025
+;;750,2025-01-19,January,Q1,2025
+;;751,2025-01-20,January,Q1,2025
+;;752,2025-01-21,January,Q1,2025
+;;753,2025-01-22,January,Q1,2025
+;;754,2025-01-23,January,Q1,2025
+;;755,2025-01-24,January,Q1,2025
+;;756,2025-01-25,January,Q1,2025
+;;757,2025-01-26,January,Q1,2025
+;;758,2025-01-27,January,Q1,2025
+;;759,2025-01-28,January,Q1,2025
+;;760,2025-01-29,January,Q1,2025
+;;761,2025-01-30,January,Q1,2025
+;;762,2025-01-31,January,Q1,2025
+;;763,2025-02-01,February,Q1,2025
+;;764,2025-02-02,February,Q1,2025
+;;765,2025-02-03,February,Q1,2025
+;;766,2025-02-04,February,Q1,2025
+;;767,2025-02-05,February,Q1,2025
+;;768,2025-02-06,February,Q1,2025
+;;769,2025-02-07,February,Q1,2025
+;;770,2025-02-08,February,Q1,2025
+;;771,2025-02-09,February,Q1,2025
+;;772,2025-02-10,February,Q1,2025
+;;773,2025-02-11,February,Q1,2025
+;;774,2025-02-12,February,Q1,2025
+;;775,2025-02-13,February,Q1,2025
+;;776,2025-02-14,February,Q1,2025
+;;777,2025-02-15,February,Q1,2025
+;;778,2025-02-16,February,Q1,2025
+;;779,2025-02-17,February,Q1,2025
+;;780,2025-02-18,February,Q1,2025
+;;781,2025-02-19,February,Q1,2025
+;;782,2025-02-20,February,Q1,2025
+;;783,2025-02-21,February,Q1,2025
+;;784,2025-02-22,February,Q1,2025
+;;785,2025-02-23,February,Q1,2025
+;;786,2025-02-24,February,Q1,2025
+;;787,2025-02-25,February,Q1,2025
+;;788,2025-02-26,February,Q1,2025
+;;789,2025-02-27,February,Q1,2025
+;;790,2025-02-28,February,Q1,2025
+;;791,2025-03-01,March,Q1,2025
+;;792,2025-03-02,March,Q1,2025
+;;793,2025-03-03,March,Q1,2025
+;;794,2025-03-04,March,Q1,2025
+;;795,2025-03-05,March,Q1,2025
+;;796,2025-03-06,March,Q1,2025
+;;797,2025-03-07,March,Q1,2025
+;;798,2025-03-08,March,Q1,2025
+;;799,2025-03-09,March,Q1,2025
+;;800,2025-03-10,March,Q1,2025
+;;801,2025-03-11,March,Q1,2025
+;;802,2025-03-12,March,Q1,2025
+;;803,2025-03-13,March,Q1,2025
+;;804,2025-03-14,March,Q1,2025
+;;805,2025-03-15,March,Q1,2025
+;;806,2025-03-16,March,Q1,2025
+;;807,2025-03-17,March,Q1,2025
+;;808,2025-03-18,March,Q1,2025
+;;809,2025-03-19,March,Q1,2025
+;;810,2025-03-20,March,Q1,2025
+;;811,2025-03-21,March,Q1,2025
+;;812,2025-03-22,March,Q1,2025
+;;813,2025-03-23,March,Q1,2025
+;;814,2025-03-24,March,Q1,2025
+;;815,2025-03-25,March,Q1,2025
+;;816,2025-03-26,March,Q1,2025
+;;817,2025-03-27,March,Q1,2025
+;;818,2025-03-28,March,Q1,2025
+;;819,2025-03-29,March,Q1,2025
+;;820,2025-03-30,March,Q1,2025
+;;821,2025-03-31,March,Q1,2025
+;;822,2025-04-01,April,Q2,2025
+;;823,2025-04-02,April,Q2,2025
+;;824,2025-04-03,April,Q2,2025
+;;825,2025-04-04,April,Q2,2025
+;;826,2025-04-05,April,Q2,2025
+;;827,2025-04-06,April,Q2,2025
+;;828,2025-04-07,April,Q2,2025
+;;829,2025-04-08,April,Q2,2025
+;;830,2025-04-09,April,Q2,2025
+;;831,2025-04-10,April,Q2,2025
+;;832,2025-04-11,April,Q2,2025
+;;833,2025-04-12,April,Q2,2025
+;;834,2025-04-13,April,Q2,2025
+;;835,2025-04-14,April,Q2,2025
+;;836,2025-04-15,April,Q2,2025
+;;837,2025-04-16,April,Q2,2025
+;;838,2025-04-17,April,Q2,2025
+;;839,2025-04-18,April,Q2,2025
+;;840,2025-04-19,April,Q2,2025
+;;841,2025-04-20,April,Q2,2025
+;;842,2025-04-21,April,Q2,2025
+;;843,2025-04-22,April,Q2,2025
+;;844,2025-04-23,April,Q2,2025
+;;845,2025-04-24,April,Q2,2025
+;;846,2025-04-25,April,Q2,2025
+;;847,2025-04-26,April,Q2,2025
+;;848,2025-04-27,April,Q2,2025
+;;849,2025-04-28,April,Q2,2025
+;;850,2025-04-29,April,Q2,2025
+;;851,2025-04-30,April,Q2,2025
+;;852,2025-05-01,May,Q2,2025
+;;853,2025-05-02,May,Q2,2025
+;;854,2025-05-03,May,Q2,2025
+;;855,2025-05-04,May,Q2,2025
+;;856,2025-05-05,May,Q2,2025
+;;857,2025-05-06,May,Q2,2025
+;;858,2025-05-07,May,Q2,2025
+;;859,2025-05-08,May,Q2,2025
+;;860,2025-05-09,May,Q2,2025
+;;861,2025-05-10,May,Q2,2025
+;;862,2025-05-11,May,Q2,2025
+;;863,2025-05-12,May,Q2,2025
+;;864,2025-05-13,May,Q2,2025
+;;865,2025-05-14,May,Q2,2025
+;;866,2025-05-15,May,Q2,2025
+;;867,2025-05-16,May,Q2,2025
+;;868,2025-05-17,May,Q2,2025
+;;869,2025-05-18,May,Q2,2025
+;;870,2025-05-19,May,Q2,2025
+;;871,2025-05-20,May,Q2,2025
+;;872,2025-05-21,May,Q2,2025
+;;873,2025-05-22,May,Q2,2025
+;;874,2025-05-23,May,Q2,2025
+;;875,2025-05-24,May,Q2,2025
+;;876,2025-05-25,May,Q2,2025
+;;877,2025-05-26,May,Q2,2025
+;;878,2025-05-27,May,Q2,2025
+;;879,2025-05-28,May,Q2,2025
+;;880,2025-05-29,May,Q2,2025
+;;881,2025-05-30,May,Q2,2025
+;;882,2025-05-31,May,Q2,2025
+;;883,2025-06-01,June,Q2,2025
+;;884,2025-06-02,June,Q2,2025
+;;885,2025-06-03,June,Q2,2025
+;;886,2025-06-04,June,Q2,2025
+;;887,2025-06-05,June,Q2,2025
+;;888,2025-06-06,June,Q2,2025
+;;889,2025-06-07,June,Q2,2025
+;;890,2025-06-08,June,Q2,2025
+;;891,2025-06-09,June,Q2,2025
+;;892,2025-06-10,June,Q2,2025
+;;893,2025-06-11,June,Q2,2025
+;;894,2025-06-12,June,Q2,2025
+;;895,2025-06-13,June,Q2,2025
+;;896,2025-06-14,June,Q2,2025
+;;897,2025-06-15,June,Q2,2025
+;;898,2025-06-16,June,Q2,2025
+;;899,2025-06-17,June,Q2,2025
+;;900,2025-06-18,June,Q2,2025
+;;901,2025-06-19,June,Q2,2025
+;;902,2025-06-20,June,Q2,2025
+;;903,2025-06-21,June,Q2,2025
+;;904,2025-06-22,June,Q2,2025
+;;905,2025-06-23,June,Q2,2025
+;;906,2025-06-24,June,Q2,2025
+;;907,2025-06-25,June,Q2,2025
+;;908,2025-06-26,June,Q2,2025
+;;909,2025-06-27,June,Q2,2025
+;;910,2025-06-28,June,Q2,2025
+;;911,2025-06-29,June,Q2,2025
+;;912,2025-06-30,June,Q2,2025
+;;913,2025-07-01,July,Q3,2025
+;;914,2025-07-02,July,Q3,2025
+;;915,2025-07-03,July,Q3,2025
+;;916,2025-07-04,July,Q3,2025
+;;917,2025-07-05,July,Q3,2025
+;;918,2025-07-06,July,Q3,2025
+;;919,2025-07-07,July,Q3,2025
+;;920,2025-07-08,July,Q3,2025
+;;921,2025-07-09,July,Q3,2025
+;;922,2025-07-10,July,Q3,2025
+;;923,2025-07-11,July,Q3,2025
+;;924,2025-07-12,July,Q3,2025
+;;925,2025-07-13,July,Q3,2025
+;;926,2025-07-14,July,Q3,2025
+;;927,2025-07-15,July,Q3,2025
+;;928,2025-07-16,July,Q3,2025
+;;929,2025-07-17,July,Q3,2025
+;;930,2025-07-18,July,Q3,2025
+;;931,2025-07-19,July,Q3,2025
+;;932,2025-07-20,July,Q3,2025
+;;933,2025-07-21,July,Q3,2025
+;;934,2025-07-22,July,Q3,2025
+;;935,2025-07-23,July,Q3,2025
+;;936,2025-07-24,July,Q3,2025
+;;937,2025-07-25,July,Q3,2025
+;;938,2025-07-26,July,Q3,2025
+;;939,2025-07-27,July,Q3,2025
+;;940,2025-07-28,July,Q3,2025
+;;941,2025-07-29,July,Q3,2025
+;;942,2025-07-30,July,Q3,2025
+;;943,2025-07-31,July,Q3,2025
+;;944,2025-08-01,August,Q3,2025
+;;945,2025-08-02,August,Q3,2025
+;;946,2025-08-03,August,Q3,2025
+;;947,2025-08-04,August,Q3,2025
+;;948,2025-08-05,August,Q3,2025
+;;949,2025-08-06,August,Q3,2025
+;;950,2025-08-07,August,Q3,2025
+;;951,2025-08-08,August,Q3,2025
+;;952,2025-08-09,August,Q3,2025
+;;953,2025-08-10,August,Q3,2025
+;;954,2025-08-11,August,Q3,2025
+;;955,2025-08-12,August,Q3,2025
+;;956,2025-08-13,August,Q3,2025
+;;957,2025-08-14,August,Q3,2025
+;;958,2025-08-15,August,Q3,2025
+;;959,2025-08-16,August,Q3,2025
+;;960,2025-08-17,August,Q3,2025
+;;961,2025-08-18,August,Q3,2025
+;;962,2025-08-19,August,Q3,2025
+;;963,2025-08-20,August,Q3,2025
+;;964,2025-08-21,August,Q3,2025
+;;965,2025-08-22,August,Q3,2025
+;;966,2025-08-23,August,Q3,2025
+;;967,2025-08-24,August,Q3,2025
+;;968,2025-08-25,August,Q3,2025
+;;969,2025-08-26,August,Q3,2025
+;;970,2025-08-27,August,Q3,2025
+;;971,2025-08-28,August,Q3,2025
+;;972,2025-08-29,August,Q3,2025
+;;973,2025-08-30,August,Q3,2025
+;;974,2025-08-31,August,Q3,2025
+;;975,2025-09-01,September,Q3,2025
+;;976,2025-09-02,September,Q3,2025
+;;977,2025-09-03,September,Q3,2025
+;;978,2025-09-04,September,Q3,2025
+;;979,2025-09-05,September,Q3,2025
+;;980,2025-09-06,September,Q3,2025
+;;981,2025-09-07,September,Q3,2025
+;;982,2025-09-08,September,Q3,2025
+;;983,2025-09-09,September,Q3,2025
+;;984,2025-09-10,September,Q3,2025
+;;985,2025-09-11,September,Q3,2025
+;;986,2025-09-12,September,Q3,2025
+;;987,2025-09-13,September,Q3,2025
+;;988,2025-09-14,September,Q3,2025
+;;989,2025-09-15,September,Q3,2025
+;;990,2025-09-16,September,Q3,2025
+;;991,2025-09-17,September,Q3,2025
+;;992,2025-09-18,September,Q3,2025
+;;993,2025-09-19,September,Q3,2025
+;;994,2025-09-20,September,Q3,2025
+;;995,2025-09-21,September,Q3,2025
+;;996,2025-09-22,September,Q3,2025
+;;997,2025-09-23,September,Q3,2025
+;;998,2025-09-24,September,Q3,2025
+;;999,2025-09-25,September,Q3,2025
+;;1000,2025-09-26,September,Q3,2025
+;;1001,2025-09-27,September,Q3,2025
+;;1002,2025-09-28,September,Q3,2025
+;;1003,2025-09-29,September,Q3,2025
+;;1004,2025-09-30,September,Q3,2025
+;;1005,2025-10-01,October,Q4,2025
+;;1006,2025-10-02,October,Q4,2025
+;;1007,2025-10-03,October,Q4,2025
+;;1008,2025-10-04,October,Q4,2025
+;;1009,2025-10-05,October,Q4,2025
+;;1010,2025-10-06,October,Q4,2025
+;;1011,2025-10-07,October,Q4,2025
+;;1012,2025-10-08,October,Q4,2025
+;;1013,2025-10-09,October,Q4,2025
+;;1014,2025-10-10,October,Q4,2025
+;;1015,2025-10-11,October,Q4,2025
+;;1016,2025-10-12,October,Q4,2025
+;;1017,2025-10-13,October,Q4,2025
+;;1018,2025-10-14,October,Q4,2025
+;;1019,2025-10-15,October,Q4,2025
+;;1020,2025-10-16,October,Q4,2025
+;;1021,2025-10-17,October,Q4,2025
+;;1022,2025-10-18,October,Q4,2025
+;;1023,2025-10-19,October,Q4,2025
+;;1024,2025-10-20,October,Q4,2025
+;;1025,2025-10-21,October,Q4,2025
+;;1026,2025-10-22,October,Q4,2025
+;;1027,2025-10-23,October,Q4,2025
+;;1028,2025-10-24,October,Q4,2025
+;;1029,2025-10-25,October,Q4,2025
+;;1030,2025-10-26,October,Q4,2025
+;;1031,2025-10-27,October,Q4,2025
+;;1032,2025-10-28,October,Q4,2025
+;;1033,2025-10-29,October,Q4,2025
+;;1034,2025-10-30,October,Q4,2025
+;;1035,2025-10-31,October,Q4,2025
+;;1036,2025-11-01,November,Q4,2025
+;;1037,2025-11-02,November,Q4,2025
+;;1038,2025-11-03,November,Q4,2025
+;;1039,2025-11-04,November,Q4,2025
+;;1040,2025-11-05,November,Q4,2025
+;;1041,2025-11-06,November,Q4,2025
+;;1042,2025-11-07,November,Q4,2025
+;;1043,2025-11-08,November,Q4,2025
+;;1044,2025-11-09,November,Q4,2025
+;;1045,2025-11-10,November,Q4,2025
+;;1046,2025-11-11,November,Q4,2025
+;;1047,2025-11-12,November,Q4,2025
+;;1048,2025-11-13,November,Q4,2025
+;;1049,2025-11-14,November,Q4,2025
+;;1050,2025-11-15,November,Q4,2025
+;;1051,2025-11-16,November,Q4,2025
+;;1052,2025-11-17,November,Q4,2025
+;;1053,2025-11-18,November,Q4,2025
+;;1054,2025-11-19,November,Q4,2025
+;;1055,2025-11-20,November,Q4,2025
+;;1056,2025-11-21,November,Q4,2025
+;;1057,2025-11-22,November,Q4,2025
+;;1058,2025-11-23,November,Q4,2025
+;;1059,2025-11-24,November,Q4,2025
+;;1060,2025-11-25,November,Q4,2025
+;;1061,2025-11-26,November,Q4,2025
+;;1062,2025-11-27,November,Q4,2025
+;;1063,2025-11-28,November,Q4,2025
+;;1064,2025-11-29,November,Q4,2025
+;;1065,2025-11-30,November,Q4,2025
+;;1066,2025-12-01,December,Q4,2025
+;;1067,2025-12-02,December,Q4,2025
+;;1068,2025-12-03,December,Q4,2025
+;;1069,2025-12-04,December,Q4,2025
+;;1070,2025-12-05,December,Q4,2025
+;;1071,2025-12-06,December,Q4,2025
+;;1072,2025-12-07,December,Q4,2025
+;;1073,2025-12-08,December,Q4,2025
+;;1074,2025-12-09,December,Q4,2025
+;;1075,2025-12-10,December,Q4,2025
+;;1076,2025-12-11,December,Q4,2025
+;;1077,2025-12-12,December,Q4,2025
+;;1078,2025-12-13,December,Q4,2025
+;;1079,2025-12-14,December,Q4,2025
+;;1080,2025-12-15,December,Q4,2025
+;;1081,2025-12-16,December,Q4,2025
+;;1082,2025-12-17,December,Q4,2025
+;;1083,2025-12-18,December,Q4,2025
+;;1084,2025-12-19,December,Q4,2025
+;;1085,2025-12-20,December,Q4,2025
+;;1086,2025-12-21,December,Q4,2025
+;;1087,2025-12-22,December,Q4,2025
+;;1088,2025-12-23,December,Q4,2025
+;;1089,2025-12-24,December,Q4,2025
+;;1090,2025-12-25,December,Q4,2025
+;;1091,2025-12-26,December,Q4,2025
+;;1092,2025-12-27,December,Q4,2025
+;;1093,2025-12-28,December,Q4,2025
+;;1094,2025-12-29,December,Q4,2025
+;;1095,2025-12-30,December,Q4,2025
+;;1096,2025-12-31,December,Q4,2025
